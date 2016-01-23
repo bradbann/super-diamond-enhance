@@ -1,4 +1,4 @@
-#配置中心使用手册
+ mvn install assembly:single -Pproduction#配置中心使用手册
 
 ## 问题交流
 * EMAIL: kgw1681682009@126.com
